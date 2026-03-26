@@ -12,7 +12,6 @@
 #### Es un proyecto orientado a la ayuda en la gestion del sistema de prestamos elaborado en Python, donde se pueda tener control, seguimiento y devoluciones de los recursos, teniendo un control de sanciones y seguimiento en tiempo real de los prestamos.
 el nombre *Prestamos-NNY* nacio de la necesidad crear un nombre con sentido propio
 ## 4. Licencia del Sotfware [http://www.apache.org/licenses/](https://url.com)
-## 5. Reporte de visión 
  Apache License
                            Version 2.0, January 2004
                         http://www.apache.org/licenses/
@@ -214,3 +213,4 @@ el nombre *Prestamos-NNY* nacio de la necesidad crear un nombre con sentido prop
    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
    See the License for the specific language governing permissions and
    limitations under the License.
+## 5. Reporte de visión 
