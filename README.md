@@ -265,8 +265,11 @@ La finalidad de dicho programa es tener control en tiempo real de los elementos 
 ## 6. Especificación de requisitos
 -**Requisitos Funcionales**
 Los requisitos funcionales definen las acciones específicas y operaciones que el sistema debe ejecutar:
+
 -**Gestión de Usuarios:**  El sistema debe permitir el registro de usuarios validando que el nombre y apellido tengan una longitud mínima de tres letras y no contengan números.
+
 -Debe validar que el documento de identidad tenga entre 3 y 15 dígitos numéricos sin letras u otros caracteres.
+
 -Debe verificar que el correo electrónico contenga un "@" y termine en "." y "com".
 
 ## 7. Plan de proyecto 
