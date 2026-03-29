@@ -221,7 +221,9 @@ La finalidad de dicho programa es tener control en tiempo real de los elementos 
 *CRONOGRAMA*
 
 <img width="706" height="230" alt="image" src="https://github.com/user-attachments/assets/6281a4d9-b047-40a1-acaa-d43e9feece1f" />
+
 *PRESUPUESTO*
+
 - Salario base 2026 $1.423.500
 - Cantidad de horas mensuales 220 (jornada de 44 horas)
 - Cantidad de horas requeridas para este trabajo 50 
