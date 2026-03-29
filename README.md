@@ -272,6 +272,53 @@ Los requisitos funcionales definen las acciones específicas y operaciones que e
 
 -Debe verificar que el correo electrónico contenga un "@" y termine en "." y "com".
 
+-Debe permitir asignar un tiempo de préstamo fijo al crear el usuario, eligiendo únicamente entre 5, 10, 15 o 30 días.
+
+
+**Gestión de Ítems (Inventario):** El sistema debe permitir registrar ítems con un nombre de al menos tres letras, permitiendo el uso de números.
+
+-Debe categorizar el ítem exclusivamente en: Videojuegos, Libros, Música y video, Herramientas, Dinero, o Misceláneo y varios.
+
+-Debe registrar el precio de compra del artículo.Debe generar un ID único alfanumérico asociado a la categoría del ítem.
+
+-Debe registrar la calidad o estado del ítem utilizando lógica difusa.
+
+
+**Gestión de Préstamos:** El sistema debe permitir registrar préstamos únicamente a usuarios previamente registrados en el sistema, buscando el ítem por su código o ID.
+
+-Debe generar notificaciones de recuperación o solicitud de devolución cuando hayan pasado al menos 20 días desde el préstamo.
+
+
+**Devoluciones y Certificados:** El sistema debe permitir registrar devoluciones validando que el usuario tenga préstamos activos
+
+-Al realizar una devolución a tiempo, debe generar un certificado en un documento de texto plano (con opción a bono si es PDF), nombrado con el nombre del prestador, la fecha de devolución y el ID.
+
+
+**Facturación por Retraso:** Si un ítem supera los 30 días de préstamo, el sistema debe generar una venta obligatoria al prestador.
+
+-Debe generar una factura en archivo de texto plano (bono si es PDF) calculando el subtotal, el total, y aplicando un impuesto adicional por "conchudez" del 23%.
+
+
+**Consultas y Reportes:** El sistema debe permitir consultar los ítems prestados ordenados por cantidad de días usando estadísticas generales.
+
+
+**Módulo de Administrador:** El sistema debe restringir el acceso al módulo de administración mediante un usuario y contraseña válidos.
+
+-El submódulo debe generar reportes sobre: total de préstamos registrados, total de ítems devueltos, total de ventas, total de pagos realizados, lista de usuarios, y usuarios con mayor y menor cantidad de préstamos.
+
+**Requisitos No Funcionales**
+Los requisitos no funcionales especifican los criterios para juzgar la operación del sistema, como rendimiento, usabilidad y compatibilidad:
+
+**Interfaz de Usuario (Usabilidad):** El programa debe tener un menú amigable basado en la consola que permita navegar entre las opciones de registro, consultas y administración.
+
+**Almacenamiento de Datos (Persistencia):** Toda la información de usuarios, préstamos y estadísticas debe gestionarse mediante archivos planos.
+
+**Compatibilidad y Exportación:** El sistema debe ser capaz de exportar los resultados y la información gestionada a un archivo CSV utilizando Python.
+
+**Estructura del Proyecto:** El código fuente completo debe estar alojado en una carpeta llamada "src" dentro del repositorio de GitHub.
+
+
+
 ## 7. Plan de proyecto 
 *CRONOGRAMA*
 
