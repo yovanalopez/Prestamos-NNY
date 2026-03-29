@@ -263,6 +263,9 @@ el nombre *Prestamos-NNY* nacio de la necesidad crear un nombre con sentido prop
 Michael Jackson Gamboa nos solicita realizar un programa donde no se le olvide a quien le presta sus juegos, herramientas, electrodomésticos y múltiples cosas a sus amigos, pues dado que tiene tantas cosas algunas veces se le pierden por la falta de control, por lo cual nos solicita crear un inventario de sus pertenecias y un listados de sus amigos con sus datos basicos, como nombre, cedula, correo y telefono celular. Adicional el manifiesta que tiene un tiempo de prestamos, lo ideal es que despues de 20 días el programa genere un recordatorio y genere notificaciones y genere documentos de devolución, pasados 30 días el programa debe generar facturarción del elemento prestado por el valor de adquisición inicial, esto esta previamente acordado al inicio de la entrega.
 La finalidad de dicho programa es tener control en tiempo real de los elementos prestados y evitar que Michael pierda sus enseres.
 ## 6. Especificación de requisitos
+Requisitos Funcionales.
+Los requisitos funcionales definen las acciones específicas y operaciones que el sistema debe ejecutar:
+
 ## 7. Plan de proyecto 
 *CRONOGRAMA*
 
