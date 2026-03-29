@@ -217,4 +217,13 @@ el nombre *Prestamos-NNY* nacio de la necesidad crear un nombre con sentido prop
 Michael Jackson Gamboa nos solicita realizar un programa donde no se le olvide a quien le presta sus juegos, herramientas, electrodomésticos y múltiples cosas a sus amigos, pues dado que tiene tantas cosas algunas veces se le pierden por la falta de control, por lo cual nos solicita crear un inventario de sus pertenecias y un listados de sus amigos con sus datos basicos, como nombre, cedula, correo y telefono celular. Adicional el manifiesta que tiene un tiempo de prestamos, lo ideal es que despues de 20 días el programa genere un recordatorio y genere notificaciones y genere documentos de devolución, pasados 30 días el programa debe generar facturarción del elemento prestado por el valor de adquisición inicial, esto esta previamente acordado al inicio de la entrega.
 La finalidad de dicho programa es tener control en tiempo real de los elementos prestados y evitar que Michael pierda sus enseres.
 ## 6. Especificación de requisitos
+## 7. Plan de proyecto 
+*CRONOGRAMA*
+<img width="706" height="230" alt="image" src="https://github.com/user-attachments/assets/6281a4d9-b047-40a1-acaa-d43e9feece1f" />
+*PRESUPUESTO*
+Salario base 2026 $1.423.500
+Cantidad de horas mensuales 220 (jornada de 44 horas)
+Cantidad de horas requeridas para este trabajo 50 
+
+
 
