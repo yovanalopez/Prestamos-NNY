@@ -1,5 +1,48 @@
 # Markdown
 # 1. Prestamos - NNY
+#### ACTAS
+#### ACTA DE ENTENDIMIENTO
+
+Reunión el día 23 de marzo de 2026 a las 3 pm
+Discutimos la elaboración del trabajo y hablamos de los temas que entendimos, concluimos que estamos un poco confundidos porque no sabemos cómo empezar.
+
+Expectativas:
+Realizar el trabajo de manera correcta
+Aprender de python y sus comandos adecuadamente
+Entender cómo este tipo de actividades nos ayudan a ser más eficientes en nuestros empleos actuales y en los futuros como ingenieros.
+Reunión 25 de marzo 2026 a las 7 pm
+se hacen avances hasta el punto 4, y se deja pendiente consultar sobre el punto 5.
+Reunión 27 de marzo 2026 a las 8 pm
+se hace avance del punto 5 y se acuerda que el punto 6 lo realiza Nelson y el punto 7 Nathalia y Yovana
+#### ACTA DE COLABORACIÓN
+23 marzo de 2026 a las 3 pm
+
+Encuentro
+Saludo
+avance en el trabajo e ideas
+elaboración de las ideas y pendientes
+
+Canales de comunicación
+Whatsapp
+
+Horarios de encuentros 
+Miércoles - Viernes  7pm a 10 pm (depende de la actividad)
+
+Sanciones
+Se expulsará del grupo a quien no participe ni se pronuncie por ningún medio de comunión sobre el trabajo.
+Excluir de las actas al integrante que no se conecte en los horarios establecidos, siempre y cuando no haya presentado una excusa válida.
+#### ACTA DE RESPONSABILIDAD
+23 de marzo de 2026 a las 3 pm
+
+Aún no se delegan actividades, ya que tenemos dudas de como empezar el taller, quedamos que el día de mañana en clases vamos aclarar las dudas y a partir de allí delegamos los puntos correspondientes de a cada integrante.
+
+Dudas para la clase del martes 24 de marzo de 2026
+- ¿Cómo empezamos el trabajo?
+- las acta al momento de la entrega van en normas APA 
+- ¿Cómo realizar el repositorio?
+Reunión 27 de marzo 2026 a las 8 pm
+se acuerda que el punto 6 lo realiza Nelson y el punto 7 Nathalia y Yovana
+
 # 2. Integrantes
 - Nathalia Buelvas Diaz
 **Habilidades:** trabajo en artes manuales, tengo una buena capacidad de oralidad. 
