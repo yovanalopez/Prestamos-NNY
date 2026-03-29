@@ -10,8 +10,10 @@ Expectativas:
 Realizar el trabajo de manera correcta
 Aprender de python y sus comandos adecuadamente
 Entender cómo este tipo de actividades nos ayudan a ser más eficientes en nuestros empleos actuales y en los futuros como ingenieros.
+
 Reunión 25 de marzo 2026 a las 7 pm
 se hacen avances hasta el punto 4, y se deja pendiente consultar sobre el punto 5.
+
 Reunión 27 de marzo 2026 a las 8 pm
 se hace avance del punto 5 y se acuerda que el punto 6 lo realiza Nelson y el punto 7 Nathalia y Yovana
 #### ACTA DE COLABORACIÓN
@@ -40,6 +42,7 @@ Dudas para la clase del martes 24 de marzo de 2026
 - ¿Cómo empezamos el trabajo?
 - las acta al momento de la entrega van en normas APA 
 - ¿Cómo realizar el repositorio?
+
 Reunión 27 de marzo 2026 a las 8 pm
 se acuerda que el punto 6 lo realiza Nelson y el punto 7 Nathalia y Yovana
 
