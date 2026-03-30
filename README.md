@@ -50,7 +50,7 @@ se acuerda que el punto 6 lo realiza Nelson y el punto 7 Nathalia y Yovana
 - Nathalia Buelvas Diaz
 **Habilidades:** trabajo en artes manuales, tengo una buena capacidad de oralidad. 
 - Nelson Garcia Montoya
-**Habilidades:** 
+**Habilidades:** Comunicacion en equipo, Pensamiento analítico y optimización
 - Yovana Patricia López Marin
 **Habilidades:** trabajo en equipo, analisis y comunicación verbal.
 ## **programa:** Ingenieria Industrial
