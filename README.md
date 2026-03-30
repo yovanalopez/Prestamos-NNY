@@ -329,6 +329,7 @@ Los requisitos no funcionales especifican los criterios para juzgar la operació
 - Salario base 2026 $1.423.500
 - Cantidad de horas mensuales 220 (jornada de 44 horas)
 - Cantidad de horas requeridas para este trabajo 50 
+<img width="897" height="128" alt="image" src="https://github.com/user-attachments/assets/c6930e5d-5700-47b5-938d-7ba28e8eb3d1" />
 
 
 
