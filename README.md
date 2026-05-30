@@ -56,7 +56,7 @@ se acuerda que el punto 6 lo realiza Nelson y el punto 7 Nathalia y Yovana
 # 3. Prestamos-NNY
 #### Es un proyecto orientado a la ayuda en la gestion del sistema de prestamos elaborado en Python, donde se pueda tener control, seguimiento y devoluciones de los recursos, teniendo un control de sanciones y seguimiento en tiempo real de los prestamos.
 el nombre *Prestamos-NNY* nacio de la necesidad crear un nombre con sentido propio
-## 4. Licencia del Sotfware [http://www.apache.org/licenses/](https://url.com)
+## 4. Licencia del Sotfware [(http://www.apache.org/licenses/LICENSE-2.0)]
 
 Nota:la licencia ya esta adjuntada en el archivo.
 ## 5. Reporte de visión 
