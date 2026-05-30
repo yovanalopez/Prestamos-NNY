@@ -28,7 +28,7 @@ class App:
             print("Usuario o contraseña incorrectos.\n")
         else:
             while True:
-                print("""Menú Principal:
+                print("""Menú Admin:
 1. Total de Prestamos Registrados
 2. Total de Items Devueltos
 3. Total de Ventas realizadas
