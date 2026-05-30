@@ -42,7 +42,7 @@ class App:
                     input("\n")
                 elif opcion == "2":
                     main_class.listar_inventario(0)
-                    print(main_class.total_devoluciones())
+                    print("    Total devoluciones: ", main_class.total_devoluciones)
                     input("\n")
                 elif opcion == "3":
                     main_class.listar_inventario(2)
