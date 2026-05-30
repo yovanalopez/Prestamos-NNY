@@ -19,7 +19,6 @@ se hace avance del punto 5 y se acuerda que el punto 6 lo realiza Nelson y el pu
 #### ACTA DE COLABORACIÓN
 23 marzo de 2026 a las 3 pm
 
-Encuentro
 Saludo
 avance en el trabajo e ideas
 elaboración de las ideas y pendientes
