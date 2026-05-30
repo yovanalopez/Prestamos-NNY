@@ -1,0 +1,11 @@
+id_objeto;nombre;precio;estado;id_prestamo;doc_cliente;fecha_vencimiento;vencido
+VID-001;xbox;500;1;1;111111;2026-05-10;False
+VID-002;ps5;600;1;2;222222;2026-04-15;True
+VID-003;switch;400;1;3;333333;2026-05-01;True
+MIV-004;pc gamer;1000;1;4;444444;2026-05-15;False
+MIV-005;teclado mecanico;50;1;5;555555;2026-05-20;False
+MIV-006;mouse inalambrico;30;1;6;111111;2026-05-05;False
+MIV-007;monitor 144hz;100;1;7;222222;2026-03-15;True
+MIV-008;silla ergonomica;80;0;;;;
+MIV-009;escritorio;150;0;;;;
+MIV-010;audifonos bluetooth;70;0;;;;
