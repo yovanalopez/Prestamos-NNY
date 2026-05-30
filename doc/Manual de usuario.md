@@ -37,7 +37,7 @@ Datos solicitados:
 - Apellido
 - Documento
 - Correo electrónico
-- Tiempo de prestamo definido
+- Tiempo de préstamo definido
 
 ### 2. Registrar Préstamo
 Permite asignar un objeto a un amigo registrado.
@@ -93,7 +93,7 @@ Consulta los pagos registrados.
 Muestra todos los amigos registrados.
 
 #### 6. Amigos con Mayor y Menor Cantidad de Préstamos
-Genera estadísticas de uso por usuario.
+Muestra a todos los amigos por cantidad de préstamos.
 
 ---
 
