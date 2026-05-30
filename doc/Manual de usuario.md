@@ -37,7 +37,7 @@ Datos solicitados:
 - Apellido
 - Documento
 - Correo electrónico
-- Tipo de préstamo
+- Tiempo de prestamo definido
 
 ### 2. Registrar Préstamo
 Permite asignar un objeto a un amigo registrado.
