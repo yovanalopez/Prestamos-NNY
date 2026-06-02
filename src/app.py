@@ -33,8 +33,10 @@ class App:
 2. Total de Items Devueltos
 3. Total de Ventas realizadas
 4. Total Pago realizados
-5. Lista de Amigos
-6. Amigos con mayor y menor cantidad de prestamos""")
+5. Registrar Objeto
+6. Lista de Objetos
+7. Lista de Amigos
+8. Amigos con mayor y menor cantidad de prestamos""")
                 opcion = input("Seleccione una opción (Enter para salir): ")
                 print("\n")
                 if opcion == "1":
@@ -50,10 +52,16 @@ class App:
                 elif opcion == "4":
                     main_class.total_pagos()
                     input("\n")
-                elif opcion == "5":
-                    main_class.listar_amigo()
+               elif opcion == "5":
+                    main_class.registrar_objeto()
                     input("\n")
                 elif opcion == "6":
+                    main_class.listar_inventario()
+                    input("\n")
+                elif opcion == "7":
+                    main_class.listar_amigo()
+                    input("\n")
+                elif opcion == "8":
                     main_class.top_prestamos()
                     input("\n")
                 elif not opcion or opcion == " " or opcion == "":
