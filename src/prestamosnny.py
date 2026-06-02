@@ -232,8 +232,9 @@ class PrestamosNNY:
         total = 0
         for idx, obj in enumerate(self.inventario, start=1):
             if estado is None:
-                print(f"{idx}. {obj.info()} ({estado_map.get(obj.get_estado(), 'Desconocido')})")
-                total += 1
+                if obj.get_estado() != 2:
+                    print(f"{idx}. {obj.info()} ({estado_map.get(obj.get_estado(), 'Desconocido')})")
+                    total += 1
             elif obj.get_estado() == estado:
                 print(f"{idx}. {obj.info()}")
                 total += 1
