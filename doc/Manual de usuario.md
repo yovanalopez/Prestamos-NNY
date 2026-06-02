@@ -89,10 +89,16 @@ Muestra los artículos vendidos.
 #### 4. Total de Pagos Realizados
 Consulta los pagos registrados.
 
-#### 5. Lista de Amigos
+#### 5. Registrar Objeto
+Registra un objeto con su nombre, precio y categoria.
+
+#### 6. Lista de Objetos
+Muestra todos los objetos registrados.
+
+#### 7. Lista de Amigos
 Muestra todos los amigos registrados.
 
-#### 6. Amigos con Mayor y Menor Cantidad de Préstamos
+#### 8. Amigos con Mayor y Menor Cantidad de Préstamos
 Muestra a todos los amigos por cantidad de préstamos.
 
 ---
