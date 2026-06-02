@@ -132,4 +132,16 @@ Los requisitos no funcionales especifican los criterios para juzgar la operació
 <img width="897" height="128" alt="image" src="https://github.com/user-attachments/assets/c6930e5d-5700-47b5-938d-7ba28e8eb3d1" />
 
 
+## 8. Plan de versionado
+
+A continuación se describe la evolución del software, detallando cada versión, los procedimientos relevantes implementados y el avance en días desde el inicio del proyecto hasta su entrega final.
+
+| Versión | Semana | Avance Relevante |
+| :--- | :---: | :--- |
+| **v0.1.0** | Semana 0 | **Estructura base y modelos de datos**<br> - Definición de las clases `amigo`, `Objeto` y `Prestamo`.<br> - Construcción del esqueleto de la aplicacion. <br> -  Menú principal en consola (`app.py`) y funciones de utilidades (`utilidades.py`). |
+| **v0.2.0** | Semana 2 | **Registros y Clasificación**<br> - Implementación del registro de amigos, objetos en el inventario y prestamos. <br> - Generación del ID único alfanumérico para Objetos del inventario basado en prefijos de categoría. |
+| **v0.4.0** | Semana 4 | **Devoluciones y Vencimientos**<br> - Implementación de lógica para la devolución de objetos prestados. <br> - Certificado de devolución. <br> - Facturación de objetos con mas de 30 días de vencido. |
+| **v0.5.0** | Semana 6 | **Menú Principal y Panel de Administrador**<br> - Integración del menú principal y panel de administrador. <br> -Validacion de usuarios, contraseñas (`usuarios.csv`). <br> - Lógica de métricas: Total de préstamos, ventas, pagos, e Objetos devueltos.<br> - Algoritmo para calcular y buscar qué amigos tienen mayor/menor cantidad de préstamos. |
+| **v1.0.0** | Semana 8 | **Versión Final y Persistencia**<br> - Persistencia de datos con la importación y exportación a archivos `.csv` y `.txt` (`clientes.csv`, `objetos.csv`, etc.) <br> - Corrección de errores y validación del ciclo de vida del préstamo. <br> - Version Final. |
+
 
