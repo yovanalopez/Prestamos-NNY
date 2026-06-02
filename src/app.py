@@ -53,7 +53,7 @@ class App:
                     main_class.total_pagos()
                     input("\n")
                 elif opcion == "5":
-                    main_class.registrar_objeto()
+                    main_class.registrar_inventario()
                     input("\n")
                 elif opcion == "6":
                     main_class.listar_inventario()
